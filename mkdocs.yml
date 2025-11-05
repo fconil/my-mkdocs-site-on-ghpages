@@ -1,7 +1,10 @@
 site_name: Mon site MkDocs sur GitHub Pages
+site_url: https://fconil.github.io/my-mkdocs-site-on-ghpages/
 nav:
   - Accueil: index.md
   - Conférences:
     - Conférence PyLadiesCon: conferences/pyladiescon.md
     - Conférence PyConFR: conferences/pyconfr.md
   - Extensions: extensions-mkdocs.md
+theme:
+  name: material
