@@ -4,4 +4,4 @@ nav:
   - Conférences:
     - Conférence PyLadiesCon: conferences/pyladiescon.md
     - Conférence PyConFR: conferences/pyconfr.md
-theme: readthedocs
+  - Extensions: extensions-mkdocs.md
